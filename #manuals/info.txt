@@ -1,4 +1,15 @@
 Build a Messaging App with React Native in 2 hours (Tutorial for beginners)
 --------------------------------------------------
+38:31
 
 https://www.youtube.com/watch?v=TKm4EHgSxUI
+
+
+Stream Chat Messaging documentation:
+------------------------------------
+https://getstream.io/chat/docs/sdk/reactnative/
+
+Install dependencies:
+---------------------
+expo install stream-chat-expo
+expo install @react-native-community/netinfo expo-document-picker expo-file-system expo-haptics expo-image-manipulator expo-image-picker expo-media-library expo-sharing react-native-gesture-handler react-native-reanimated react-native-safe-area-context react-native-svg expo-av
