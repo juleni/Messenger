@@ -1,6 +1,6 @@
 Build a Messaging App with React Native in 2 hours (Tutorial for beginners)
 --------------------------------------------------
-38:31
+45
 
 https://www.youtube.com/watch?v=TKm4EHgSxUI
 
